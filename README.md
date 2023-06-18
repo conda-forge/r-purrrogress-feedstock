@@ -1,11 +1,11 @@
-About r-purrrogress
-===================
+About r-purrrogress-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-purrrogress-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/halpo/purrrogress
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-purrrogress-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides functions to easily add progress bars to apply calls.
 
