@@ -1,6 +1,5 @@
 {% set version = '0.1.1' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-purrrogress
@@ -13,8 +12,7 @@ source:
   sha256: 9f7d38013e9f1ebe7ba57ecd11eee571ebab224edcdd60fa4bcfaa2be5c9fcd0
 
 build:
-  merge_build_host: True  # [win]
-  number: 3
+  number: 4
   noarch: generic
   rpaths:
     - lib/R/lib/
